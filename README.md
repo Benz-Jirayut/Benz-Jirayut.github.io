@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[page2](/TEMP.md)
+[page2](/Pages/TEMP.md)
 
 You can use the [editor on GitHub](https://github.com/Benz-Jirayut/Benz-Jirayut.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
