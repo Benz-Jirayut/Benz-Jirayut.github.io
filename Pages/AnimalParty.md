@@ -7,7 +7,17 @@ where players can join and dance to match the AI in the game. The person
 that dance according to the AI the most will win the game. Players can also
 perform a distraction scream to another players.
 
-![h1](./../Images/AnimalParty/AnimalParty1.png)
+![animal-party-1](../Images/AnimalParty/AnimalParty1.png)
+
+### My Responsibilities
+My role in this project is developing the bot and creating Sync
+information from players who enter the room so they can play Multiplayer.
 
 ### Development Duration
 24 hours
+
+### Development Tools
+- Unity
+- Photon Cloud
+
+<img src="../Images/AnimalParty/AnimalParty2.png" height="180"/><img src="../Images/AnimalParty/AnimalParty3.png" height="180"/>
